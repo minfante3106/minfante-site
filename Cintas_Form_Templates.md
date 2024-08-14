@@ -1,6 +1,6 @@
 ---
 title: Cintas Form Templates
-layout: home
+layout: default
 ---
 
 ## Weekly Coaching Forms
