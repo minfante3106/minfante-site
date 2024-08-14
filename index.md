@@ -3,4 +3,6 @@ title: Home
 layout: home
 ---
 
-Welcome to the site!
+##To report issues, send an email to:
+Matthew Infante
+mainfante@rdicorp.com
